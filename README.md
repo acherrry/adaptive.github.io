@@ -1,1 +1,1 @@
-# adaptive1.github.io
+# adaptive.github.io
